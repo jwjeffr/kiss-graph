@@ -1,0 +1,12 @@
+{
+    "relationships": [
+        ["Jacob", "Dawson"],
+        ["Dawson", "Pat"],
+        ["Bryce", "Skylar"],
+        ["Emma", "Faith"],
+        ["Emma", "Skylar"],
+        ["Emma", "Kat"],
+        ["Emma", "Alyssa"],
+        ["Faith", "Skylar"]
+    ]
+}
