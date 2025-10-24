@@ -1,6 +1,7 @@
 {
     "relationships": [
         ["Jacob", "Dawson"],
+        ["Jacob", "Caroline"],
         ["Dawson", "Pat"],
         ["Dawson", "Kylie"],
         ["Bryce", "Skylar"],
@@ -9,6 +10,9 @@
         ["Emma", "Kat"],
         ["Emma", "Alyssa"],
         ["Emma", "Alex"],
-        ["Faith", "Skylar"]
+        ["Faith", "Skylar"],
+        ["Skylar", "Jonathan"],
+        ["Jonathan", "Madi"],
+        ["Madi", "Caroline"]
     ]
 }
